@@ -13,14 +13,14 @@ Siteye [buraya](https://www.hrznp.com/) tıklayarak ulaşabilirsin.
 You can access the site by clicking [here](https://www.hrznp.com/).
 
 ---
-![alt text](https://github.com/serhatzunluoglu/architect-website/blob/421d03facaf47a84571aa5abc0522c5558245e68/Macbook-Air-hrznp.com.png)
+![alt text](https://github.com/serhatzunluoglu/horizon_and_partners_website/blob/8d80aab3aea26e7f36e67524a55cd03708283762/Macbook-Air-hrznp.com-1.png)
 
 ---
-![alt text](https://github.com/serhatzunluoglu/architect-website/blob/421d03facaf47a84571aa5abc0522c5558245e68/Macbook-Air-hrznp.com%20(1).png)
+![alt text](https://github.com/serhatzunluoglu/horizon_and_partners_website/blob/8d80aab3aea26e7f36e67524a55cd03708283762/Macbook-Air-hrznp.com-2.png)
 
 ---
-![alt text](https://github.com/serhatzunluoglu/architect-website/blob/421d03facaf47a84571aa5abc0522c5558245e68/Macbook-Air-hrznp.com%20(3).png)
+![alt text](https://github.com/serhatzunluoglu/horizon_and_partners_website/blob/8d80aab3aea26e7f36e67524a55cd03708283762/Macbook-Air-hrznp.com-3.png)
 
 ---
-![alt text](https://github.com/serhatzunluoglu/architect-website/blob/421d03facaf47a84571aa5abc0522c5558245e68/Macbook-Air-hrznp.com%20(2).png)
+![alt text](https://github.com/serhatzunluoglu/horizon_and_partners_website/blob/8d80aab3aea26e7f36e67524a55cd03708283762/Macbook-Air-hrznp.com-4.png)
 
