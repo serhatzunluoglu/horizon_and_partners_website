@@ -12,7 +12,7 @@ Siteye [buraya](https://www.hrznp.com/) tıklayarak ulaşabilirsin.
 
 You can access the site by clicking [here](https://www.hrznp.com/).
 
-## Laptop
+## Desktop
 
 ---
 
